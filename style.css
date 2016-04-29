@@ -1,0 +1,5 @@
+p { font-family : Courier ; font-size : 1em ; color : LightCoral ;text-align : center}
+h1 { font-size : 3em ; color : OrangeRed}
+li {font-family : Arial ; color : SandyBrown}
+table {border-width : 1px; border-style : double ; border-color : pink}
+td.description {font-style : italic}
